@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Faizosman
-- 👀 I’m interested in to learn Linux
+- 👀 I’m interested  to learn Linux
 - 🌱 I’m currently Working as IT- Coordinator
 - 💞️ I’m looking to collaborate on to learn Linux administration
 - 📫 faiz.osman8@gmail.com
